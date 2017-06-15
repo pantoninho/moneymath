@@ -1,12 +1,12 @@
 {
   "name": "moneymath",
   "version": "0.0.1",
-  "description": "",
+  "description": "expressive and extensible api for money-related math",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "pantoninho",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^3.19.0"
@@ -14,5 +14,18 @@
   "dependencies": {
     "expressive-objects": "^1.0.1",
     "moment": "^2.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantoninho/moneymath.git"
+  },
+  "keywords": [
+    "money",
+    "math",
+    "calculations"
+  ],
+  "bugs": {
+    "url": "https://github.com/pantoninho/moneymath/issues"
+  },
+  "homepage": "https://github.com/pantoninho/moneymath#readme"
 }
